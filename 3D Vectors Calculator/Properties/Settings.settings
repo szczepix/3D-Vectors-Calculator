@@ -1,0 +1,60 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="VectorsCalculator.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Planet1X" Type="System.String" Scope="User">
+      <Value Profile="(Default)">-102</Value>
+    </Setting>
+    <Setting Name="Planet1Y" Type="System.String" Scope="User">
+      <Value Profile="(Default)">242</Value>
+    </Setting>
+    <Setting Name="Planet1Z" Type="System.String" Scope="User">
+      <Value Profile="(Default)">302</Value>
+    </Setting>
+    <Setting Name="Moon1X" Type="System.String" Scope="User">
+      <Value Profile="(Default)">-152</Value>
+    </Setting>
+    <Setting Name="Moon1Y" Type="System.String" Scope="User">
+      <Value Profile="(Default)">152</Value>
+    </Setting>
+    <Setting Name="Moon1Z" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192</Value>
+    </Setting>
+    <Setting Name="Planet2X" Type="System.String" Scope="User">
+      <Value Profile="(Default)">-549</Value>
+    </Setting>
+    <Setting Name="Planet2Y" Type="System.String" Scope="User">
+      <Value Profile="(Default)">-500</Value>
+    </Setting>
+    <Setting Name="Planet2Z" Type="System.String" Scope="User">
+      <Value Profile="(Default)">-300</Value>
+    </Setting>
+    <Setting Name="Moon2X" Type="System.String" Scope="User">
+      <Value Profile="(Default)">-649</Value>
+    </Setting>
+    <Setting Name="Moon2Y" Type="System.String" Scope="User">
+      <Value Profile="(Default)">-500</Value>
+    </Setting>
+    <Setting Name="Moon2Z" Type="System.String" Scope="User">
+      <Value Profile="(Default)">-470</Value>
+    </Setting>
+    <Setting Name="Planet3X" Type="System.String" Scope="User">
+      <Value Profile="(Default)">800</Value>
+    </Setting>
+    <Setting Name="Planet3Y" Type="System.String" Scope="User">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="Planet3Z" Type="System.String" Scope="User">
+      <Value Profile="(Default)">-890</Value>
+    </Setting>
+    <Setting Name="Moon3X" Type="System.String" Scope="User">
+      <Value Profile="(Default)">900</Value>
+    </Setting>
+    <Setting Name="Moon3Y" Type="System.String" Scope="User">
+      <Value Profile="(Default)">-110</Value>
+    </Setting>
+    <Setting Name="Moon3Z" Type="System.String" Scope="User">
+      <Value Profile="(Default)">-790</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
